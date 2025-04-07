@@ -52,11 +52,11 @@ section_choice = st.sidebar.radio("Jump to section:", list(sections.keys()))
 # Main content
 st.markdown(f"<pre style='font-size: 12px; color: green'>{ascii_banner}</pre>", unsafe_allow_html=True)
 st.title("Mohammed Gulam Asif")
-st.subheader("Web Developer | Software Engineer | Network Engineer")
+st.subheader("Web Developer | Software Developer | Network Engineer | Cybersecurity Analysis)
 st.markdown("---")
 
 # Contact info
-st.markdown("📧 **Email:** your.email@example.com &nbsp;&nbsp; 📍 **Location:** South Africa")
+st.markdown("📧 **Email:** mgulamasif@gmail.com &nbsp;&nbsp; 📍 **Location:** South Africa")
 st.markdown("---")
 
 # Display selected section
